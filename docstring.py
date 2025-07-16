@@ -1,0 +1,1 @@
+"""give deatiul of function modules it  write triple """ """    comas """
